@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9e90d3-1364-4e06-b370-a8d64d835413" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/term_1/supervised_learning/SVM/01_SVC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/term_1/supervised_learning/SVM/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7b9e90d3-1364-4e06-b370-a8d64d835413" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/term_1/supervised_learning/SVM/data.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="620">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
             </state>
           </provider>
         </entry>
@@ -101,13 +97,6 @@
               <item name="term_1" type="462c0819:PsiDirectoryNode" />
               <item name="supervised_learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dsnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsnd" type="462c0819:PsiDirectoryNode" />
-              <item name="term_1" type="462c0819:PsiDirectoryNode" />
-              <item name="supervised_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +134,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -208,7 +196,7 @@
     <entry file="file://$PROJECT_DIR$/term_1/supervised_learning/SVM/data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
         </state>
       </provider>
     </entry>
